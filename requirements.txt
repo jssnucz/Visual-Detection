@@ -1,0 +1,12 @@
+gradio==3.48.0
+numpy==1.24.4
+Pillow==9.5.0
+opencv-python==4.8.1.78
+requests==2.31.0
+pathlib2==2.3.7.post1
+easyocr==1.7.1
+ultralytics==8.0.228
+torch==2.0.1
+python-docx==0.8.11
+reportlab==3.6.12
+base64io==1.0.0
